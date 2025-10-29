@@ -34,9 +34,3 @@ This project is an early static mockup intended for UI practice and learning. Pl
 - Add interactivity with JavaScript (search, cart UI, dropdowns)
 - Accessibility improvements and semantic markup updates
 - (Optional) Connect to a backend or mock API for dynamic content
-
-## Contributing
-Contributions are welcome. Open an issue or submit a pull request with improvements, bug fixes or feature proposals.
-
-## License
-MIT — see LICENSE file for details.
